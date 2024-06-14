@@ -4,9 +4,10 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title></title>
+    <title>Prueba Push</title>
 </head>
 <body>
+<tittle>Doctor</tittle>
     <form id="form1" runat="server">
         <div>
         </div>
